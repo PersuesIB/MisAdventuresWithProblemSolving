@@ -1,6 +1,6 @@
 #include "dynamicArray.h"
 
-int main(){
+void main(){
     int size;
     std::cout<<"Enter the size of the array \n";
     std::cin>>size;
